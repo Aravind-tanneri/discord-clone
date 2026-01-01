@@ -1,16 +1,47 @@
-# React + Vite
+# Discord Landing Page Clone 👾
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive clone of the Discord landing page, built to practice modern frontend development practices using React and Tailwind CSS.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
+(https://aravind-tanneri.github.io/discord-clone/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+* **Framework:** React
+* **Styling:** Tailwind CSS (v4)
+* **Fonts:** Open Sans, Noto Serif Display
 
-## React Compiler
+## ✨ Features
+* **Responsive Design:** Fully adapts to mobile, tablet, and desktop viewports.
+* **Component Based:** Modular UI sections (Hero, Features, Footer).
+* **Modern CSS:** Utilizes the latest Tailwind directives and theme configuration.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+https://github.com/user-attachments/assets/aea05a1d-81e9-4b99-8924-d630805aa7a8
+
+
+
+## 📦 Getting Started
+
+1.  **Clone the repository**
+    ```bash
+    git clone [https://github.com/Aravind-tanneri/discord-clone.git](https://github.com/Aravind-tanneri/discord-clone.git)
+    ```
+
+2.  **Install dependencies**
+    ```bash
+    npm install
+    ```
+
+3.  **Run the development server**
+    ```bash
+    npm run dev
+    ```
+
+## 📂 Project Structure
+```text
+src/
+├── assets/        # SVG icons and images
+├── components/    # Reusable UI sections
+├── index.css      # Tailwind imports & theme config
+└── App.jsx        # Main application entry
