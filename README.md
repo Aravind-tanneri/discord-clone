@@ -25,7 +25,7 @@ https://github.com/user-attachments/assets/aea05a1d-81e9-4b99-8924-d630805aa7a8
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/Aravind-tanneri/discord-clone.git](https://github.com/Aravind-tanneri/discord-clone.git)
+    git clone (https://github.com/Aravind-tanneri/discord-clone.git)
     ```
 
 2.  **Install dependencies**
